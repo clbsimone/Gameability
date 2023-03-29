@@ -1,7 +1,7 @@
 # Gameability
 project by "Gli autostoppisti"
 
-## Desccription
+## Description
 Our project is a simple game where you are presented with cars at an interception, each car has a number on it and an arrow signaling the path it wants to take, the objective is to guide each car trough the interception in the right order using hand and arms gestures.
 This movements can help reabilitate the upper limbs.
 
@@ -13,9 +13,9 @@ This movements can help reabilitate the upper limbs.
 ### Unity
 ### Ultraleap Gemini
 
-## RESOURCES
+## Downloads:
 ### Unity
-Unity version used: [LTS 2021.3](https://download.unity3d.com/download_unity/1b156197d683/Windows64EditorInstaller/UnitySetup64-2021.3.21f1.exe).
+Unity version used: [LTS 2021.3](https://download.unity3d.com/download_unity/1b156197d683/Windows64EditorInstaller/UnitySetup64-2021.3.21f1.exe)
 
 ### Ultraleap
 Gemini version used: [5.7.2](https://www2.leapmotion.com/downloads/gemini/v5.7.2)
