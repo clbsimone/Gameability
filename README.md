@@ -2,13 +2,13 @@
 this is a project made by the team "Gli autostoppisti"
 
 Team members:
-> Simone Basso
+> [Simone Basso](https://github.com/clbsimone)
 > 
-> Daniele Di Mantua
+> [Daniele Di Mantua](https://github.com/1Danielozen1)
 > 
-> Alexander Becchio
+> [Alexander Becchio](https://github.com/SirAlexanderTheFourth)
 > 
-> Samuele Bruno
+> [Samuele Bruno](https://github.com/SamueleBruno)
 
 
 ## Description
