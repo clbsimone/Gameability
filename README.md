@@ -1,7 +1,7 @@
 # Gameability
 this is a project made by the team "Gli autostoppisti"
 
-Team members:
+### Team members:
 > [Simone Basso](https://github.com/clbsimone)
 > 
 > [Daniele Di Mantua](https://github.com/1Danielozen1)
