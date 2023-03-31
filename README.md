@@ -23,9 +23,9 @@ This movements can help reabilitate the upper limbs.
 ### Unity
 ### Ultraleap Gemini
 
-##Development:
+## Development:
 
-##Known issues:
+## Known issues:
 
 ## Downloads:
 ### Unity
