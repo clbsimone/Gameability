@@ -1,5 +1,11 @@
 # Gameability
-project by "Gli autostoppisti"
+this is a project made by the team "Gli autostoppisti"
+Team members:
+> Simone Basso
+> Daniele Di Mantua
+> Alexander Becchio
+> Samuele Bruno
+
 
 ## Description
 Our project is a simple game where you are presented with cars at an interception, each car has a number on it and an arrow signaling the path it wants to take, the objective is to guide each car trough the interception in the right order using hand and arms gestures.
