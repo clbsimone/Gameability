@@ -26,4 +26,6 @@ This movements can help reabilitate the upper limbs.
 
 ## Known issues:
 
+## How to use:
+
 ## Downloads:
