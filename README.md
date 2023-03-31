@@ -30,9 +30,3 @@ This movements can help reabilitate the upper limbs.
 ## Known issues:
 
 ## Downloads:
-### Unity
-
-
-### Ultraleap
-
-
