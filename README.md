@@ -20,8 +20,8 @@ This movements can help reabilitate the upper limbs.
 
 ## Softwares:
 * Blender
-#### Unity
-#### Ultraleap Gemini
+* Unity
+*  Ultraleap Gemini
 
 ## Development:
 
