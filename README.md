@@ -1,9 +1,13 @@
 # Gameability
 this is a project made by the team "Gli autostoppisti"
+
 Team members:
 > Simone Basso
+> 
 > Daniele Di Mantua
+> 
 > Alexander Becchio
+> 
 > Samuele Bruno
 
 
