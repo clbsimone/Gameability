@@ -16,7 +16,7 @@ Our project is a simple game where you are presented with cars at an interceptio
 This movements can help reabilitate the upper limbs.
 
 ## Components:
-### [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
+* [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
 
 ## Softwares:
 * Blender
