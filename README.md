@@ -19,9 +19,9 @@ This movements can help reabilitate the upper limbs.
 ### [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
 
 ## Softwares:
-### Blender
-### Unity
-### Ultraleap Gemini
+### * Blender
+### * Unity
+### * Ultraleap Gemini
 
 ## Development:
 
