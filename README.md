@@ -23,6 +23,10 @@ This movements can help reabilitate the upper limbs.
 ### Unity
 ### Ultraleap Gemini
 
+##Development:
+
+##Known issues:
+
 ## Downloads:
 ### Unity
 Unity version used: [LTS 2021.3](https://download.unity3d.com/download_unity/1b156197d683/Windows64EditorInstaller/UnitySetup64-2021.3.21f1.exe)
