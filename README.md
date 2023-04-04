@@ -16,6 +16,10 @@ this is a project made by the team "Gli autostoppisti"
 Our project is a simple game where you are presented with cars at an interception, each car has a number on it and an arrow signaling the path it wants to take, the objective is to guide each car trough the interception in the right order using hand and arms gestures.
 This movements can help reabilitate the upper limbs.
 
+## Objective
+Our objective is to create an envirorment to train the upper limbs while also training perception in a somewhat familiar envirorment.
+
+
 ## Components:
 * [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
 
