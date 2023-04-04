@@ -31,8 +31,8 @@ Our objective is to create an envirorment to train the upper limbs while also tr
   * Gemini version used: [5.7.2](https://www2.leapmotion.com/downloads/gemini/v5.7.2)
 
 ## Development:
-After deciding the roles we each began to develop our parts, Samuele Basso created the 3d game map in blender and exported it.
-Once the assets where ready Bruno started to 
+"After deciding the roles we each began to develop our parts, Samuele Basso created the 3d game map in blender and exported it.
+Once the assets where ready Bruno started to" -place holder
 ## Known issues:
 
 ## How to use:
