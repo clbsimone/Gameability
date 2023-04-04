@@ -34,6 +34,21 @@ Our objective is to create an envirorment to train the upper limbs while also tr
 `After deciding the roles we each began to develop our parts, Samuele Basso created the 3d game map in blender and exported it'  
 Once the assets where ready Bruno started to` -place holder
 
+## Gallery
+![test](/screenshots/IMG-20230331-WA0008.jpg | width=100)
+![test](/screenshots/IMG-20230331-WA0009.jpg)
+![test](/screenshots/IMG-20230331-WA0010.jpg)
+![test](/screenshots/IMG-20230331-WA0011.jpg)
+![test](/screenshots/IMG-20230331-WA0012.jpg)
+![test](/screenshots/IMG-20230331-WA0013.jpg)
+![test](/screenshots/IMG-20230331-WA0014.jpg)
+![test](/screenshots/IMG-20230331-WA0015.jpg)
+![test](/screenshots/IMG-20230331-WA0016.jpg)
+![test](/screenshots/IMG-20230331-WA0017.jpg)
+![test](/screenshots/IMG-20230331-WA0018.jpg)
+![test](/screenshots/IMG-20230331-WA0019.jpg)
+![test](/screenshots/IMG-20230331-WA0020.jpg)
+
 ## Known issues:
 
 ## How to use:
