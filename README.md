@@ -3,9 +3,13 @@ this is a project made by the team "Gli autostoppisti"
 
 ### Team members:
 > * [Simone Basso](https://github.com/clbsimone)
+>    * Leader
 > * [Daniele Di Mantua](https://github.com/1Danielozen1)
+>    * Hand recognition programmer
 > * [Alexander Becchio](https://github.com/SirAlexanderTheFourth)
+>    * Supervisor and assistant programmer
 > * [Samuele Bruno](https://github.com/SamueleBruno)
+>    * Game programmer
 
 
 ## Description
@@ -23,7 +27,8 @@ This movements can help reabilitate the upper limbs.
   * Gemini version used: [5.7.2](https://www2.leapmotion.com/downloads/gemini/v5.7.2)
 
 ## Development:
-
+After deciding the roles we each began to develop our parts, Samuele Basso created the 3d game map in blender and exported it.
+Once the assets where ready Bruno started to 
 ## Known issues:
 
 ## How to use:
