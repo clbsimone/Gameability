@@ -35,7 +35,7 @@ Our objective is to create an envirorment to train the upper limbs while also tr
 Once the assets where ready Bruno started to` -place holder
 
 ## Gallery
-![test](/screenshots/IMG-20230331-WA0008.jpg | width=100)
+![test](/screenshots/IMG-20230331-WA0008.jpg)
 ![test](/screenshots/IMG-20230331-WA0009.jpg)
 ![test](/screenshots/IMG-20230331-WA0010.jpg)
 ![test](/screenshots/IMG-20230331-WA0011.jpg)
