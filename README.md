@@ -31,9 +31,7 @@ Our objective is to create an envirorment to train the upper limbs while also tr
   * Gemini version used: [5.7.2](https://www2.leapmotion.com/downloads/gemini/v5.7.2)
 
 ## Development:
-`After deciding the roles we each began to develop our parts, Samuele Basso created the 3d game map in blender and exported it'  
-Once the assets where ready Bruno started to` -place holder
-
+* [Simone Basso](https://github.com/clbsimone): Using Blender, a 3D modeling software, I created all the 3D models present in the video game. I spent some time studying the program's functions and faced some initial difficulties, as I had never used it before. However, I overcame the obstacles and managed to complete the work within the expected timeframe.
 
 ## How to use:
 
